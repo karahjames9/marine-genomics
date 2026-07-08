@@ -1,0 +1,38 @@
+---
+title: "Command line Basics"
+output: html_document
+date: "2026-07-08"
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
