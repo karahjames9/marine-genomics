@@ -1,0 +1,33 @@
+---
+title: "01_assembly"
+output: html_document
+date: "2026-07-08"
+---
+
+Step 1: Document your work
+
+Step 2: Assembly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

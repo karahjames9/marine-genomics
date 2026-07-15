@@ -1,0 +1,38 @@
+---
+title: "01_binning"
+output: html_document
+date: "2026-07-08"
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
