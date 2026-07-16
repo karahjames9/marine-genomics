@@ -8,13 +8,34 @@ Step 1: Document your work
 
 Step 2: Assembly
 
+Step 3: Binning with metabat
 
+Step 4: Check bin quality with checkm
 
+The longest contig: 4706700 contig_131
+Functional Analysis of the BBD Metagenome
+   Metagenomic assembly corresponds to a species or strain forming part of the Black Band Disease(BBD). The genomes being analyzed are used to make deductions during the metabolic processes occuring within BBD. 
+Who is there, or what taxonomic groups of microbes are present?
 
+What can they do? (what genes do they have and what biochemical pathways do these support)
 
+ These are the bin assemblies with more than 15% completeness--> bbd_topbins.txt 
+metabat.5
+metabat.26
+metabat.4
+metabat.3
+metabat.35
+metabat.38
+metabat.47
+metabat.29
+metabat.40
+metabat.28
+metabat.16
+metabat.51
+metabat.62
+metabat.10
 
-
-
+Step 6: Perform taxonomic classification with gtdbtk
 
 
 
